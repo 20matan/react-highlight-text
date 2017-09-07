@@ -1,0 +1,19 @@
+.divComment {
+  padding-bottom: 5px;
+  display: flex;
+  flex: 1;
+  border-bottom: 1px black solid;
+  flex-direction: column;
+}
+
+.divName {
+  font-weight: 500;
+}
+
+.divBody {
+  font-weight: 300;
+}
+
+.spanHighlight {
+  background-color: yellow;
+}
